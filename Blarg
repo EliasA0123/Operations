@@ -1,0 +1,2 @@
+def blarg(x, y):
+    print "%s blarg %s equals %s%s"
